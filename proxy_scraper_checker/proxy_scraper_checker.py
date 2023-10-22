@@ -395,7 +395,7 @@ class ProxyScraperChecker:
 
         self.save_proxies()
 
-        )
+
 
     def get_sorted_proxies(self) -> Dict[ProxyType, List[Proxy]]:
         key: Union[
